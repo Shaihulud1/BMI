@@ -1,3 +1,3 @@
-"""BMI calculator for iOS"""
+BMI calculator for iOS
 
 
